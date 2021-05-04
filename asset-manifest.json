@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/livewell/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/livewell/static/js/main.4ecd1e0f.chunk.js",
+    "main.js.map": "/livewell/static/js/main.4ecd1e0f.chunk.js.map",
+    "runtime-main.js": "/livewell/static/js/runtime-main.f121f70c.js",
+    "runtime-main.js.map": "/livewell/static/js/runtime-main.f121f70c.js.map",
+    "static/css/2.f4a6a311.chunk.css": "/livewell/static/css/2.f4a6a311.chunk.css",
+    "static/js/2.bead2063.chunk.js": "/livewell/static/js/2.bead2063.chunk.js",
+    "static/js/2.bead2063.chunk.js.map": "/livewell/static/js/2.bead2063.chunk.js.map",
+    "static/js/3.89dd9350.chunk.js": "/livewell/static/js/3.89dd9350.chunk.js",
+    "static/js/3.89dd9350.chunk.js.map": "/livewell/static/js/3.89dd9350.chunk.js.map",
+    "index.html": "/livewell/index.html",
+    "static/css/2.f4a6a311.chunk.css.map": "/livewell/static/css/2.f4a6a311.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/livewell/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bead2063.chunk.js.LICENSE.txt": "/livewell/static/js/2.bead2063.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f121f70c.js",
+    "static/css/2.f4a6a311.chunk.css",
+    "static/js/2.bead2063.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4ecd1e0f.chunk.js"
+  ]
+}
