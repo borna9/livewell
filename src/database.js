@@ -4,6 +4,7 @@ const priorities = [
 	{ value: 'High', label: 'High' },
 	{ value: 'Time-sensitive', label: 'Time-sensitive' },
 	{ value: 'Daily routine', label: 'Daily routine' },
+	{ value: 'Schedule', label: 'Schedule' },
 	{ value: 'Urgent', label: 'Urgent' },
 ];
 
