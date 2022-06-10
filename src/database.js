@@ -2,10 +2,11 @@ const priorities = [
 	{ value: 'Low', label: 'Low' },
 	{ value: 'Medium', label: 'Medium' },
 	{ value: 'High', label: 'High' },
-	{ value: 'Time-sensitive', label: 'Time-sensitive' },
+	{ value: 'Need to schedule', label: 'Need to schedule' },
 	{ value: 'Daily routine', label: 'Daily routine' },
-	{ value: 'Schedule', label: 'Schedule' },
+	{ value: 'Scheduled', label: 'Scheduled' },
 	{ value: 'Urgent', label: 'Urgent' },
+	{ value: 'Wasted time', label: 'Wasted time' },
 ];
 
 const Airtable = require('airtable');
